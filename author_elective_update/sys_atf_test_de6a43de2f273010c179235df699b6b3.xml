@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Test Suite for the NeedIt application </description>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <name>NeedIt App </name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-03 13:42:41</sys_created_on>
+        <sys_id>de6a43de2f273010c179235df699b6b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt App </sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_test_de6a43de2f273010c179235df699b6b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-03 13:42:41</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="DELETE" query="document_key=de6a43de2f273010c179235df699b6b3"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>8522999adb303b0407072f17d496193b</instance_id>
+        <instance_name>dev81262</instance_name>
+        <name>sys_atf_test_de6a43de2f273010c179235df699b6b3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test"><sys_atf_test action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Test Suite for the NeedIt application </description><enable_parameterized_testing>false</enable_parameterized_testing><name>NeedIt App </name><parameters/><remember/><sys_class_name>sys_atf_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-11-03 13:42:41</sys_created_on><sys_id>de6a43de2f273010c179235df699b6b3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt App </sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_test_de6a43de2f273010c179235df699b6b3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-03 13:42:41</sys_updated_on></sys_atf_test><sys_variable_value action="delete_multiple" query="document_key=de6a43de2f273010c179235df699b6b3"/></record_update>]]></payload>
+        <payload_hash>1248528224</payload_hash>
+        <record_name>NeedIt App </record_name>
+        <reverted_from/>
+        <source>d9dc951f2f833010c179235df699b6a6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-03 13:42:41</sys_created_on>
+        <sys_id>1f7a07de2f273010c179235df699b69b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ce6099a240000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-03 13:42:41</sys_updated_on>
+        <type>Test</type>
+        <update_guid>577a07deae27301086efc758d816349b</update_guid>
+        <update_guid_history>577a07deae27301086efc758d816349b:1248528224</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-03 13:44:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_test">sys_atf_test</sys_db_object>
+        <sys_id>6aa1a24f53a44685ab346860247afbd9</sys_id>
+        <sys_metadata>de6a43de2f273010c179235df699b6b3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt App </sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_test_de6a43de2f273010c179235df699b6b3</sys_update_name>
+        <sys_update_version display_value="sys_atf_test_de6a43de2f273010c179235df699b6b3">1f7a07de2f273010c179235df699b69b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-03 13:44:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
